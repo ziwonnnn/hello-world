@@ -1,4 +1,4 @@
-# hello world!
+# Hello world!
 
 This is *History of Western Music 4* at Hanyang University.
 
